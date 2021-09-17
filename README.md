@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 [![Instagram Badge](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yazilimdakal/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/burak-emre-g%C3%BCnde%C5%9F-567a5b19a/)
-[![Spotify Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://open.spotify.com/user/burakemregundes)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/burakemregundes)
 
 
 My Skills 🚀
