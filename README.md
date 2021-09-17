@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [burakemregundes.com](https://burakemregundes.com/)
 
-- 💬 Ask me about **C#, Javascript, Nodejs, ASP.Net Core, MongoDB, Sql**
+- 💬 Ask me about **C#, Javascript, Nodejs, ASP.Net Core, MongoDB, SQL**
 
 - 📫 How to reach me **burakemregundes@gmail.com**
 
