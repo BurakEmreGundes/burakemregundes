@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/akdenizburakk/](www.linkedin.com/in/akdenizburakk/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/burakemregundes](https://www.linkedin.com/in/burak-emre-g%C3%BCnde%C5%9F-567a5b19a/)
 
 - 📝 I regularly write articles on [burakemregundes.com](https://burakemregundes.com/)
 
