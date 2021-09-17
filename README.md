@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akdenizburak&label=Profile%20views&color=24b6ff&style=plastic" alt="akdenizburak" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=burakemregundes&label=Profile%20views&color=24b6ff&style=plastic" alt="burakemregundes" /> </p>
 
 - 🔭 I’m currently working on **Bookshelf**
 
