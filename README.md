@@ -8,7 +8,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burakemregundes&label=Profile%20views&color=24b6ff&style=plastic" alt="burakemregundes" /> </p>
 
-- 🔭 I’m currently working on **Bookshelf**
 
 - 🌱 I’m currently learning **.Net Core**
 
