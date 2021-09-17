@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Burak</h1>
  </div>
 
-<p align="center"> <img width="70%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/> </p>
+<p align="center"> <img width="70%" height="420" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/> </p>
 
 
 <h3 align="center">A passionate software developer from Turkey</h3>
