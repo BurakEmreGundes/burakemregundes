@@ -1,5 +1,8 @@
 
-<img src="https://github.com/BurakEmreGundes/burakemregundes/blob/main/code.gif" width="auto">
+<p align="center">
+  <img src="https://github.com/BurakEmreGundes/burakemregundes/blob/main/code.gif" width="auto">
+</p>
+
 
 
 ### Hi there 👋
