@@ -28,7 +28,7 @@
 <a href="https://instagram.com/burakemregndes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakemregundes" height="30" width="40" /></a>
  <a href="https://instagram.com/yazilimdakal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yazilimdakal" height="30" width="40" /></a>
 
- 
+
 <br>
 <h3 align="left">🚀 Languages and Tools:</h3>
 
