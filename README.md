@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Burak</h1>
  </div>
 
-<p align="center"> <img width="70%" src="https://user-images.githubusercontent.com/65746583/107860542-d4b4f480-6e50-11eb-82eb-0d7e47ca8716.gif"/> </p>
+<p align="center"> <img width="70%" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/> </p>
 
 
 <h3 align="center">A passionate software developer from Turkey</h3>
@@ -22,8 +22,8 @@
 
 
 <h3 align="left">🚀 Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/burakemregundes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="burakemregundes" height="30" width="40" /></a>
+<p align="">
+<a style="font-size=16px" href="https://linkedin.com/in/burakemregundes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="burakemregundes" height="30" width="40" /></a>
 <a href="https://instagram.com/burakemregndes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakemregundes" height="30" width="40" /></a>
  <a href="https://instagram.com/yazilimdakal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yazilimdakal" height="30" width="40" /></a>
 
