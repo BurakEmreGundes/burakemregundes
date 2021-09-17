@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/burakemregundes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="burakemregundes" height="30" width="40" /></a>
 <a href="https://instagram.com/burakemregndes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakemregundes" height="30" width="40" /></a>
  <a href="https://instagram.com/yazilimdakal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yazilimdakal" height="30" width="40" /></a>
@@ -33,8 +33,8 @@
 
 <hr>
 
-<p align="center""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akdenizburak&show_icons=true&locale=en&layout=compact" alt="akdenizburak" /></p>
+<p align="center""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakemregundes&show_icons=true&locale=en&layout=compact" alt="burakemregundes" /></p>
 
-<p align="center"> <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=akdenizburak&show_icons=true&locale=en" alt="akdenizburak" /></p>
+<p align="center"> <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=akdenizburak&show_icons=true&locale=en" alt="burakemregundes" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akdenizburak&" alt="akdenizburak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakemregundes&" alt="burakemregundes" /></p>
