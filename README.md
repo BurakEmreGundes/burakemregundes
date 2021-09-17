@@ -1,3 +1,7 @@
+
+<img src="https://github.com/BurakEmreGundes/burakemregundes/blob/main/code.gif" width="auto">
+
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
