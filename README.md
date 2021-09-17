@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/BurakEmreGundes/burakemregundes/blob/main/code.gif" width="auto">
+  <img heigth="200" src="https://github.com/BurakEmreGundes/burakemregundes/blob/main/code.gif" width="auto">
 </p>
 
 
