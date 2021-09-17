@@ -31,5 +31,4 @@ My Skills 🚀
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=burakemregundes&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=burakemregundes&show_icons=true&theme=radical)
