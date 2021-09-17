@@ -24,7 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/burakemregundes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="burakemregundes" height="30" width="40" /></a>
-<a href="https://instagram.com/burakemregundes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakemregundes" height="30" width="40" /></a>
+<a href="https://instagram.com/burakemregndes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakemregundes" height="30" width="40" /></a>
+ <a href="https://instagram.com/yazilimdakal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yazilimdakal" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
