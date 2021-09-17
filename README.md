@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/akdenizburakk/](www.linkedin.com/in/akdenizburakk/)
 
-- 📝 I regularly write articles on [akdenizburak.medium.com](akdenizburak.medium.com)
+- 📝 I regularly write articles on [burakemregundes.com](burakemregundes.com)
 
 - 💬 Ask me about **C#, Python, Kotlin, Android Studio, ASP.Net Core**
 
