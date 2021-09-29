@@ -11,21 +11,19 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 👨‍💻 All of my projects are available at [in/burakemregundes](https://www.linkedin.com/in/burak-emre-g%C3%BCnde%C5%9F-567a5b19a/)
+- 👨‍💻 All of my projects are available at [in/burakemregundes](https://www.linkedin.com/in/frkncnzirek/)
+)
+- 💬 Ask me about **Javascript, Nodejs, React.JS, Redux, MongoDB, SQL, NoSQL**
 
-- 📝 I regularly write articles on [burakemregundes.com](https://burakemregundes.com/)
-
-- 💬 Ask me about **C#, Javascript, Nodejs, ASP.Net Core, MongoDB, SQL**
-
-- 📫 How to reach me **burakemregundes@gmail.com**
+- 📫 How to reach me **furkancanzirek@gmail.com**
 
 
 <br>
 <h3 align="left">🚀 Connect with me:</h3>
 <p align="">
-<a style="font-size=16px" href="https://linkedin.com/in/burakemregundes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="burakemregundes" height="30" width="40" /></a>
-<a href="https://instagram.com/burakemregndes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="burakemregundes" height="30" width="40" /></a>
- <a href="https://instagram.com/yazilimdakal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yazilimdakal" height="30" width="40" /></a>
+<a style="font-size=16px" href="https://linkedin.com/in/frkncnzirek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="furkancanzirek" height="30" width="40" /></a>
+<a href="https://instagram.com/devfcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="furkancanzirek" height="30" width="40" /></a>
+ <a href="https://instagram.com/frkncnzirek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="frkncnzirek" height="30" width="40" /></a>
 
 
 <br>
@@ -38,11 +36,14 @@
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=blue)
+![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 <hr>
 
 <p align="center""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakemregundes&show_icons=true&locale=en&layout=compact" alt="burakemregundes" /></p>
