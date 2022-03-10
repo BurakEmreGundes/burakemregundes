@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burakemregundes&label=Profile%20views&color=24b6ff&style=plastic" alt="burakemregundes" /> </p>
 
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [in/burakemregundes](https://www.linkedin.com/in/burak-emre-g%C3%BCnde%C5%9F-567a5b19a/)
 
