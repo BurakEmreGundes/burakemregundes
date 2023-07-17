@@ -13,9 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [in/burakemregundes](https://www.linkedin.com/in/burak-emre-g%C3%BCnde%C5%9F-567a5b19a/)
 
-#- 📝 I regularly write articles on [burakemregundes.com](https://burakemregundes.com/)
-
-- 💬 Ask me about **Swift, Nodejs, MongoDB, SQL**
+- 💬 Ask me about **Swift**
 
 - 📫 How to reach me **burakemregundes@gmail.com**
 
