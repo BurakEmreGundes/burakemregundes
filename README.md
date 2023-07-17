@@ -28,13 +28,7 @@
 
 <br>
 <br>
-<h3 align="left">🚀 Languages and Tools:</h3>
 
-![iOS Badge] (https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<hr>
 
 <p align="center""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakemregundes&show_icons=true&locale=en&layout=compact" alt="burakemregundes" /></p>
 
